@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AmyJapanese. I'm a Japanese High school student.
 - 👀 I’m interested in Electron.
 - 🌱 I’m currently learning Javascript&Typescript
-- 📫 X: https://x.com/Seijo_Ami
+- 📫 X: 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
