@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AmyJapanese. I’m a Japanese high school student.
+- 👋 Hi, I’m Very-Sleepy-Fish. I’m from Japan.
 - 👀 I’m interested in Electron.
 - 🌱 I’m currently learning JavaScript & TypeScript.
 - ⚡ Fun fact: I build Obsidian plugins and occasionally store creative projects.
